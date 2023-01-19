@@ -318,7 +318,7 @@ header{
 .datos{
     padding: 43px 55px ;
     margin: 0px 120px;
-    background-image: url(https://raw.githubusercontent.com/xlgenis/clickable/25eba645cc20701dd4de57eacfdbc37a10803661/imagenes/background.svg);
+    background: url(https://raw.githubusercontent.com/xlgenis/clickable.com/c838ba5d430807a80d343819982b1293b431e2d3/imagenes/background.svg);
     border-radius: 20px;
     display: flex;
     flex-direction: column;
